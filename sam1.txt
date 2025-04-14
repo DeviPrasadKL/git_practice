@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Commit - 3
-=======
 Commit - 3
 Commit - 4 (in Develop)
->>>>>>> fbad547 (commit 3)
